@@ -1,0 +1,9 @@
+/* styles.css */
+
+:root {
+  --primary-color: #2c3968;
+}
+
+body{
+  background-color: red;
+}
